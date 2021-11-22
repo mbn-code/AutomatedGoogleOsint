@@ -1,6 +1,6 @@
 # GoogleScienceSearch
-This is a test at using python to search on google about elements and other science stuff.
-
+Using googlesearch moduel, this auto searches the web for your search query
+This works great with finding information on users with their names / usernames. 
 
 ![Screenshot](Other-python-icon.png)
 
