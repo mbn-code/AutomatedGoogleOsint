@@ -1,6 +1,8 @@
 # GoogleScienceSearch
 Using googlesearch moduel, this auto searches the web for your search query
 This works great with finding information on users with their names / usernames. 
+There is also a search restults history that stores the results until you start a new scan 
+
 
 ![Screenshot](Other-python-icon.png)
 
