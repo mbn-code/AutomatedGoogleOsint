@@ -12,6 +12,7 @@ clone the reposetory.
 git clone https://github.com/CollinEdward/GoogleScienceSearch.git
 ```
 
+![Screenshot](Preview.png)
 
 Links to read about how this works
 ```
